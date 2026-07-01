@@ -16,8 +16,8 @@ export const personal = {
   location: "Bangalore, India",
   github: "https://github.com/SharanR1224",
   githubLabel: "github.com/SharanR1224",
-  linkedin: "https://linkedin.com/in/SharanR",
-  linkedinLabel: "linkedin.com/in/SharanR",
+  linkedin: "https://www.linkedin.com/in/sharan-r-31093727b/",
+  linkedinLabel: "linkedin.com/in/sharan-r-31093727b",
   resumeFile: "/resume/Sharan_R_Resume.pdf",
   summary:
     "AI & Machine Learning Engineering graduate with hands-on experience in Generative AI, Machine Learning, Computer Vision, and automation workflows. Skilled in Python and building AI-based solutions through academic and personal projects. Quick learner with strong interest in applying AI to real-world problems and collaborating in team environments.",
